@@ -1,5 +1,5 @@
 # FalloutEuler
-###Project Euler solutions done at random
+### Project Euler solutions done at random
 
 Each problem is completed in C and can be found in the src folder.
 
